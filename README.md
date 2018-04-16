@@ -2,5 +2,5 @@
 
 Запустить проект:
 
-# yarn install;
+# yarn install
 # yarn dev
